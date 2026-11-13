@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si utilizas este recurso, cítalo como se indica a continuación."
+type: software
+title: "Ejercicios de práctica · Máquinas síncronas: generador de ejercicios con solución explicada"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Rocca
+    given-names: Roberto
+    affiliation: Universidad de Zaragoza
+keywords:
+  - máquinas síncronas
+  - máquinas eléctricas
+  - ingeniería eléctrica
+  - generador de ejercicios
+  - recurso educativo abierto
+  - gamificación
