@@ -1,0 +1,22 @@
+{
+  "upload_type": "software",
+  "title": "Ejercicios de práctica · Máquinas síncronas: generador de ejercicios con solución explicada",
+  "creators": [
+    {
+      "name": "Rocca, Roberto",
+      "affiliation": "Universidad de Zaragoza",
+      "orcid": "0000-0001-5996-2755"
+    }
+  ],
+  "description": "<p>Recurso educativo abierto para la asignatura Máquinas Eléctricas II (Universidad de Zaragoza). Genera ejercicios de máquinas síncronas (polos lisos y salientes) con datos aleatorios y muestra la solución completa con explicación paso a paso.</p><p>Cubre FEM desde la geometría, ensayos de vacío y cortocircuito, triángulo de Potier, teoría de Blondel, Behn-Eschenburg, funcionamiento en red de potencia infinita, potencias de excitación y de reluctancia, compensador síncrono y diagramas fasoriales. Cada ejercicio tiene un código que permite reproducirlo exactamente.</p><p>Página HTML autocontenida que funciona en cualquier navegador sin instalación.</p><p>Autoría: diseño pedagógico, planteamiento de los ejercicios, modelos de cálculo y validación técnica de las soluciones a cargo del autor. La implementación del código se realizó con asistencia de IA generativa (Claude, Anthropic), bajo la dirección y revisión del autor.</p>",
+  "license": "MIT",
+  "language": "spa",
+  "keywords": [
+    "máquinas síncronas",
+    "máquinas eléctricas",
+    "ingeniería eléctrica",
+    "generador de ejercicios",
+    "recurso educativo abierto",
+    "gamificación"
+  ]
+}
