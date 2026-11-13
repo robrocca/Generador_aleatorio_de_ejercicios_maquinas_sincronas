@@ -2,7 +2,7 @@
 
 Generador de ejercicios de **máquinas síncronas** para la asignatura *Máquinas Eléctricas II* (Universidad de Zaragoza). Crea un enunciado nuevo cada vez, con datos distintos, y muestra la solución completa con su explicación para que el estudiante pueda comprobar su resultado.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24195538.svg)](https://doi.org/10.5281/zenodo.24195538)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24195537.svg)](https://doi.org/10.5281/zenodo.24195537)
 
 ## Qué cubre
 
